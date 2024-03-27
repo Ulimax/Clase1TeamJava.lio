@@ -1,5 +1,5 @@
 # Clase 1
-En este repo se encuentra el contenido de la clase que impartí a mis compañeros de la CH38 de Generation, temas que aun no quedaban claros se trabajaron en esta sesión, si tiene alguien dudas acerca de los temas pueden hacer un clon, o un fork.
+En este repo se encuentra el contenido de la clase que impartí a mis compañeros de la CH38 de Generation, temas que aun no quedaban claros se trabajaron en esta sesión, si tiene alguien dudas acerca de los temas pueden hacer un clon y/o compartir el enlace al repo con quien pueda requerir el contenido.
 Toda contribución a este repo se agradece y espero que a la comunidad de programadores les resulte de utilidad.
 
 Los Temas desarrollados y que se encuentran los codigos dentro de este repo son:
