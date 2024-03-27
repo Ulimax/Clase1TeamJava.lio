@@ -8,5 +8,5 @@ Los Temas desarrollados y que se encuentran los codigos dentro de este repo son:
 2. CallbackHell
 3. Promises
 4. Promises como una mejor alternativa al callback hell
-5. Fetch Api (consulta y manejo de Apis del lado de Front-end)
+5. Fetch Api (consulta y manejo de Apis en el DOM)
 6. Funciones Async await para el manejo de promesas Fetch Api de forma asincrona
